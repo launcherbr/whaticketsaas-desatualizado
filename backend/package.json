@@ -21,7 +21,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^9.1.4",
     "@sentry/node": "^6.18.1",
-    "@whiskeysockets/baileys": "^6.7.2",
+    "@whiskeysockets/baileys": "^6.7.4",
     "@adiwajshing/keyed-db": "^0.2.4",
     "axios": "^1.4.0",
     "bcryptjs": "^2.4.3",
